@@ -16,3 +16,7 @@ Si, si realiza el commit con el archivo (sea txt o cualquier otro)
 
 d-¿De qué forma se comunicaron ustedes?
 Mediante Discord y Whatsapp.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor manera de comunicarse dentro de github es mediante los commits,
+dejando los mensajes que indican que tarea va haciendo cada integrante del proyecto

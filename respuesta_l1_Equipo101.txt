@@ -1,4 +1,11 @@
+Apellido y Nombre de los usuarios: 
+
+-Carbajal Nahuel
+-Villalba Ignacio
+-Sagnella Franco
+
 Finalmente entre todos los integrantes contestan esta preguntas con sus palabras :
+
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Si, se ven .
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?

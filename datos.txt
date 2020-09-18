@@ -3,3 +3,9 @@ Usuario: BETA
 	-Apellido: Villalba
 	-IP (IPV4): 192.168.100.2
 	-Hora: 11:22 A.M.
+Usuario: GAMMA
+	-Nombre: Franco
+	-Apellido: Sagnella
+	-IP (IPV4): 192.168.0.21
+	-Hora: 11:31 A.M.
+
